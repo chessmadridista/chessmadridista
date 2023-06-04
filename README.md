@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @chessmadridista
-- 👀 I’m interested in creating projects related to non corporate areas such as sports, art, books, fashion and the like.
-- 🌱 I’m currently learning Vue JS.
-- 💞️ I’m looking to collaborate on any interesting projects involving Python, HTML, CSS, JS, Vue or any other technology stacks.
-- 📫 How to reach me: Message me here if you have some interesting ideas :). You can mail me as well at lavanyamishra1996@gmail.com
+👋 Hello, I'm Lavanya Mishra!
+
+👀 I'm an enthusiastic individual passionate about projects in non-corporate areas such as sports, art, books, meditation, health, fitness, and chess. I love exploring the intersections between these fields and leveraging technology to create innovative solutions.
+
+🌱 Currently, I'm focusing on mastering React, a powerful JavaScript framework for building interactive and responsive user interfaces. It's an exciting journey of learning and experimentation that enables me to enhance the user experience of my projects.
+
+💡 I'm actively seeking collaboration opportunities for interesting projects. My skill set includes Python, TypeScript, Vue, React and other technology stacks. If you have any compelling ideas or projects you'd like to work on together, I'd be thrilled to hear about them!
+
+📬 Feel free to reach out to me here with your intriguing ideas or questions. You can also contact me via email at lavanyamishra1996@gmail.com.
+
+✨ Let's connect and bring our creative visions to life!
+
+
 
 <!---
 chessmadridista/chessmadridista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
