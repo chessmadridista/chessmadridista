@@ -11,8 +11,8 @@
 ✨ Let's connect and bring our creative visions to life!
 
 Here are some of my projects:
-1. [My portfolio](https://nostalgician.in)
-
+1. [My portfolio](https://nostalgician.in): This is my portfolio website.
+2. [Memento Mori Calendar Web App](https://mementomori.nostalgician.in): This app helps the user create a Memento Mori calendar given their date of birth and their life expectancy.
 <!---
 chessmadridista/chessmadridista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
