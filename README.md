@@ -14,12 +14,8 @@
 # My Projects
 ## 1. [My portfolio](https://nostalgician.in) 🌐
 This is my portfolio website.
-
----
 ## 2. [Memento Mori Calendar Web App](https://mementomori.nostalgician.in) 💀📅
 This app helps the user create a Memento Mori calendar given their date of birth and their life expectancy.
-
----
 ## 3. [Wireframer POC](https://wireframer.nostalgician.in) 🧠✏️
 This app helps the user manage the rough wireframe sketches by project. This is just a POC. I will update the link as soon as the MVP is released.
 <!---
