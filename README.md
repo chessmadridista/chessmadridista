@@ -1,3 +1,4 @@
+# About me
 👋 Hello, I'm Lavanya Mishra!
 
 👀 I'm an enthusiastic individual passionate about projects in non-corporate areas such as sports, art, books, meditation, health, fitness, and chess. I love exploring the intersections between these fields and leveraging technology to create innovative solutions.
@@ -11,7 +12,7 @@
 ✨ Let's connect and bring our creative visions to life!
 
 ---
-# My Projects
+# My projects
 ## 1. [My portfolio](https://nostalgician.in) 🌐
 This is my portfolio website.
 ## 2. [Memento Mori Calendar Web App](https://mementomori.nostalgician.in) 💀📅
