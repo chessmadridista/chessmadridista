@@ -6,10 +6,6 @@ Hi, I am Lavanya! I have been working as a software engineer since 2020. I also 
 
 ## Contact
 - 📧 lavanyamishra1996@gmail.com
-- ![image](https://github.com/chessmadridista/chessmadridista/assets/58620639/4385b9c5-e54f-4e27-b476-bf92409325c7)
-https://www.linkedin.com/in/lavanyamishra1996/
-
-
 
 ---
 # My projects
