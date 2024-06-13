@@ -3,8 +3,8 @@
 Hi, I am Lavanya! I have been working as a software engineer since 2020. I also dabble in data analytics and machine learning.
 
 ## Skills
-<a src="https://flask.palletsprojects.com/en/3.0.x/">
-  <img href="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask logo"/>
+<a href="https://flask.palletsprojects.com/en/3.0.x/">
+  <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask logo"/>
 </a>
 
 ## Contact
