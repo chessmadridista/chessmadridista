@@ -7,9 +7,12 @@
 
 💡 I'm actively seeking collaboration opportunities for interesting projects. My skill set includes Python, TypeScript, Vue, React and various other technology stacks. If you have any compelling ideas or projects you'd like to work on together, I'd be thrilled to hear about them!
 
+✨ Let's connect and bring our creative visions to life!
+
+## Contact
 📬 Feel free to reach out to me here with your intriguing ideas or questions. You can also contact me via email at lavanyamishra1996@gmail.com.
 
-✨ Let's connect and bring our creative visions to life!
+
 
 ---
 # My projects
