@@ -12,6 +12,11 @@ Hi, I am Lavanya! I have been working as a software engineer since 2020. I also 
 <a href="https://vuetifyjs.com/en/">
   <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-dark-atom.svg" alt="Vuetify logo" height="40" />
 </a>
+<a href="https://pinia.vuejs.org/">
+  <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia logo" height="40" />
+</a>
+
+https://pinia.vuejs.org/logo.svg
 
 ## Contact
 - 📧 lavanyamishra1996@gmail.com
