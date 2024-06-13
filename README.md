@@ -9,6 +9,9 @@ Hi, I am Lavanya! I have been working as a software engineer since 2020. I also 
 <a href="https://vuejs.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue logo" height="40" />
 </a>
+<a href="https://vuetifyjs.com/en/">
+  <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-dark-atom.svg" alt="Vuetify logo" height="40" />
+</a>
 
 ## Contact
 - 📧 lavanyamishra1996@gmail.com
