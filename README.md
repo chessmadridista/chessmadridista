@@ -59,6 +59,10 @@ Hi, I am Lavanya! I have been working as a software engineer since 2020. I also 
 - 📧 lavanyamishra1996@gmail.com
 
 ---
+# Open source contributions
+## 1. [Mattermost](https://github.com/search?q=org%3Amattermost+chessmadridista&type=pullrequests)
+
+---
 # My projects
 ## 1. [My portfolio](https://nostalgician.in) 🌐
 ![Portfolio Home Page](https://github.com/chessmadridista/chessmadridista/assets/58620639/c0d7403a-eb51-41b6-b68c-b6d8d4ab647f)
