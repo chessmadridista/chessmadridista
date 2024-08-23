@@ -70,8 +70,7 @@ Hi, I am Lavanya! I have been working as a software engineer since 2020. I also 
 ---
 # My projects
 ## 1. [Serenify](https://serenify.nostalgician.in) 💀📅
-[Serenify demo](https://youtu.be/dNLold0WbL4)
-This app helps the user create a Memento Mori calendar given their date of birth and their life expectancy.
+[Serenify demo](https://youtu.be/dNLold0WbL4). This app helps the user create a Memento Mori calendar given their date of birth and their life expectancy.
 ## 2. [Memento Mori Calendar Web App](https://mementomori.nostalgician.in) 💀📅
 ![Memento Mori App Calendar](https://github.com/chessmadridista/chessmadridista/assets/58620639/f8ec2bcb-da67-4cb0-a20a-ae2be8a5f0b8)
 This app helps the user create a Memento Mori calendar given their date of birth and their life expectancy.
