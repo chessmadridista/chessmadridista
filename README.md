@@ -69,8 +69,8 @@ Hi, I am Lavanya! I have been working as a software engineer since 2020. I also 
 
 ---
 # My projects
-## 1. [Serenify](https://serenify.nostalgician.in) 💀📅
-[Serenify demo](https://youtu.be/dNLold0WbL4). This app helps the user create a Memento Mori calendar given their date of birth and their life expectancy.
+## 1. [Serenify](https://serenify.nostalgician.in) 😌
+[Serenify demo](https://youtu.be/dNLold0WbL4). Unload your negative thoughts in this app and let the breeze of positivity travel through your mind. The motivation behind building this journal was that some of the thoughts that we have don't need to be stored for reading later, especially the negative and dark thoughts. If we read these types of thoughts later then the emotions associated with those thoughts get triggered whenever we read them (if you write these types of thoughts in a standard journal). In Serenify, you write a thought once, and when you click on the "Ease your mind" button, that thought will go away and will not bother you again.
 ## 2. [Memento Mori Calendar Web App](https://mementomori.nostalgician.in) 💀📅
 ![Memento Mori App Calendar](https://github.com/chessmadridista/chessmadridista/assets/58620639/f8ec2bcb-da67-4cb0-a20a-ae2be8a5f0b8)
 This app helps the user create a Memento Mori calendar given their date of birth and their life expectancy.
