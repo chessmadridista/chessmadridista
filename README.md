@@ -69,10 +69,13 @@ Hi, I am Lavanya! I have been working as a software engineer since 2020. I also 
 
 ---
 # My projects
-## 1. [Memento Mori Calendar Web App](https://mementomori.nostalgician.in) 💀📅
+## 1. [Serenify](https://serenify.nostalgician.in) 💀📅
+[Serenify demo](https://youtu.be/dNLold0WbL4)
+This app helps the user create a Memento Mori calendar given their date of birth and their life expectancy.
+## 2. [Memento Mori Calendar Web App](https://mementomori.nostalgician.in) 💀📅
 ![Memento Mori App Calendar](https://github.com/chessmadridista/chessmadridista/assets/58620639/f8ec2bcb-da67-4cb0-a20a-ae2be8a5f0b8)
 This app helps the user create a Memento Mori calendar given their date of birth and their life expectancy.
-## 2. [Wireframer POC](https://wireframer.nostalgician.in) 🧠✏️
+## 3. [Wireframer POC](https://wireframer.nostalgician.in) 🧠✏️
 ![Wireframer App Projects Page](https://github.com/chessmadridista/chessmadridista/assets/58620639/e4afe77e-3e61-48d2-8f89-9b13ca25a9eb)
 This app helps the user manage the rough wireframe sketches by project. This is just a POC. I will update the link as soon as the MVP is released.
 <!---
