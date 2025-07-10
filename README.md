@@ -1,6 +1,6 @@
 # About me
 ## Overview
-Hi, I am Lavanya! I have been working as a software engineer since 2020. I also dabble in data analytics and machine learning.
+Hi, I am Lavanya! I have been working as a software engineer since 2020. I am currently indie hacking cool products. I also dabble in data analytics and machine learning.
 
 ## Skills
 <a href="https://flask.palletsprojects.com/en/3.0.x/">
